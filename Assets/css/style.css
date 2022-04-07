@@ -1,0 +1,221 @@
+/*
+Full screen Modal 
+*/
+.fullscreen-modal .modal-dialog {
+	margin: 0;
+	margin-right: auto;
+	margin-left: auto;
+	width: 100%;
+  }
+  @media (min-width: 768px) {
+	.fullscreen-modal .modal-dialog {
+	  width: 750px;
+	}
+  }
+  @media (min-width: 992px) {
+	.fullscreen-modal .modal-dialog {
+	  width: 970px;
+	}
+  }
+  @media (min-width: 1200px) {
+	.fullscreen-modal .modal-dialog {
+	   width: 1170px;
+	}
+  }
+
+
+.app-sidebar__user-name {
+  font-size: 10px;
+  line-height: 0.9;
+}
+
+.app-sidebar__user-avatar{
+	width: 45px;
+	right: 2px;
+}
+
+.headerRegister, .header-primary{
+	background-color: #009688;
+	color: #fff;
+}
+
+.headerUpdate{
+	background-color: #007bff;
+	color: #fff;
+}
+
+#divLoading{
+	position: absolute;
+	top: 0;
+	width: 100%;
+	height: 100%;
+	justify-content: center;
+	align-items: center;
+	background: rgba(254,254,255,0.4);
+	z-index: 1;
+	display: none;
+}
+
+#divLoading img{
+	width: 60px;
+	height: 60px;
+}
+
+.anchocelda{
+	width: 65px;
+	font-size: 0.71rem;
+}
+
+.anchofecha
+{
+	width: 25px;
+	font-size: 0.71rem;
+}
+
+#cuadro_foto{
+	position: absolute;
+	left: 30px;
+	top: -8px;
+	width: 150px;
+	height: 140px;
+	border: 1px solid;
+}
+
+#txtSchedu{
+	background-color: lightblue;
+	color: #000;
+}
+
+#txtPuntaj{
+	background-color: lightblue;
+	color: #000;
+}
+
+#txtVdlink{
+	background-color: lightblue;
+	color: #000;
+}
+
+#txtMessag{
+	background-color: lightblue;
+	color: #000;
+}
+
+#lblDocval{
+	background-color: cyan;
+	font-size: 1rem;
+	color: #000;
+}
+
+#txtAboval{
+	background-color: cyan;
+	font-size: 1rem;
+	color: #000;
+}
+
+#txtDocval{
+	background-color: cyan;
+	font-size: 1rem;
+	color: #000;
+}
+
+#txtDocva2{
+	background-color: cyan;
+	font-size: 1rem;
+	color: #000;
+}
+
+#txtDocva3{
+	background-color: cyan;
+	font-size: 1rem;
+	color: #000;
+}
+
+#txtValors{
+	background-color: cyan;
+	font-size: 1rem;
+	color: #000;
+}
+
+/* -- Previsualizar Archivo --- */
+.prevFile, .prevFlTask {
+    display: flex;
+    justify-content: space-between;
+    width: 350px;
+    height: 250px;
+    border: 1px solid #CCC;
+    position: relative;
+    margin-top: 4px;
+    top:0;
+    left:0;
+}
+
+.notBlock{
+	display: none !important;
+}
+
+.delFile, .delFlTask{
+	color: #FFF;
+	display: -webkit-flex;
+	display: -moz-flex;
+	display: -ms-flex;
+	display: -o-flex;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	border-radius: 50%;
+	width: 25px;
+	height: 25px;
+	background: red;
+	position: absolute;
+	right: 0px;
+	top: -10px;
+	z-index: 10;
+}
+
+.vertical_text {
+
+ text-align: center;
+ vertical-align: middle;
+ width: 1.6em;
+
+ font-size: 0.47rem;
+ letter-spacing: 2px;
+}
+
+.vertical_text div {
+	writing-mode: vertical-rl;
+	-moz-transform: rotate(180deg);  /* FF3.5+ */
+       -o-transform: rotate(180deg);  /* Opera 10.5 */
+  -webkit-transform: rotate(180deg);  /* Saf3.1+, Chrome */
+}
+
+/* -- FIN: Previsualizar Archivo --- */
+
+.login-box, .login-register{
+	animation: moverArriba 1.5s ease-in;
+}
+
+/* -- Cambiar tamaño letra Combos --- */
+
+
+@keyframes moverArriba {
+	0%{
+		opacity: 0;
+		transform: translateY(180px);
+	}
+
+	100%{
+		opacity: 0.65;
+		transform: translate(0);
+
+	}
+}
+
+input[type=number]::-webkit-inner-spin-button, 
+input[type=number]::-webkit-outer-spin-button { 
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    margin: 0; 
+}

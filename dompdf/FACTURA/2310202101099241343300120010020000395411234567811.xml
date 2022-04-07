@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+  <estado>AUTORIZADO</estado>
+  <numeroAutorizacion>2310202101099241343300120010020000395411234567811</numeroAutorizacion>
+  <fechaAutorizacion>2021-10-23T10:06:53-05:00</fechaAutorizacion>
+  <ambiente>PRODUCCION</ambiente>
+  <comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<factura id="comprobante" version="1.1.0"><infoTributaria><ambiente>2</ambiente><tipoEmision>1</tipoEmision><razonSocial>UNIDAD EDUCATIVA PARTICULAR MIXTA ACADEMIA NAVAL ALTAMAR S.A. ALTAMARSA</razonSocial><ruc>0992413433001</ruc><claveAcceso>2310202101099241343300120010020000395411234567811</claveAcceso><codDoc>01</codDoc><estab>001</estab><ptoEmi>002</ptoEmi><secuencial>000039541</secuencial><dirMatriz>GUAYAQUIL-VELEZ 1904 Y CARCHI</dirMatriz><agenteRetencion>1</agenteRetencion></infoTributaria><infoFactura><fechaEmision>23/10/2021</fechaEmision><dirEstablecimiento>VELEZ 1904 Y CARCHI</dirEstablecimiento><obligadoContabilidad>SI</obligadoContabilidad><tipoIdentificacionComprador>05</tipoIdentificacionComprador><razonSocialComprador>MEDINA MENDOZA ROSSANA CECIBEL</razonSocialComprador><identificacionComprador>0915579601</identificacionComprador><totalSinImpuestos>619.14</totalSinImpuestos><totalDescuento>0.0</totalDescuento><totalConImpuestos><totalImpuesto><codigo>2</codigo><codigoPorcentaje>0</codigoPorcentaje><baseImponible>619.14</baseImponible><valor>0.00</valor></totalImpuesto></totalConImpuestos><propina>0.0</propina><importeTotal>619.14</importeTotal><moneda>DOLAR</moneda><pagos><pago><formaPago>01</formaPago><total>619.14</total><plazo>0</plazo><unidadTiempo>dias</unidadTiempo></pago></pagos></infoFactura><detalles><detalle><codigoPrincipal>503</codigoPrincipal><descripcion>PENSION</descripcion><cantidad>1.0</cantidad><precioUnitario>103.19</precioUnitario><descuento>0.0</descuento><precioTotalSinImpuesto>103.19</precioTotalSinImpuesto><detallesAdicionales><detAdicional nombre="DescuentoPorcentaje" valor="0.0"/><detAdicional nombre="Detalle" valor="MAYO - TENECELA MEDINA CARLOS ANDRES"/></detallesAdicionales><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>0</codigoPorcentaje><tarifa>0.00</tarifa><baseImponible>103.19</baseImponible><valor>0.0</valor></impuesto></impuestos></detalle><detalle><codigoPrincipal>504</codigoPrincipal><descripcion>PENSION</descripcion><cantidad>1.0</cantidad><precioUnitario>103.19</precioUnitario><descuento>0.0</descuento><precioTotalSinImpuesto>103.19</precioTotalSinImpuesto><detallesAdicionales><detAdicional nombre="DescuentoPorcentaje" valor="0.0"/><detAdicional nombre="Detalle" valor="JUNIO - TENECELA MEDINA CARLOS ANDRES"/></detallesAdicionales><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>0</codigoPorcentaje><tarifa>0.00</tarifa><baseImponible>103.19</baseImponible><valor>0.0</valor></impuesto></impuestos></detalle><detalle><codigoPrincipal>505</codigoPrincipal><descripcion>PENSION</descripcion><cantidad>1.0</cantidad><precioUnitario>103.19</precioUnitario><descuento>0.0</descuento><precioTotalSinImpuesto>103.19</precioTotalSinImpuesto><detallesAdicionales><detAdicional nombre="DescuentoPorcentaje" valor="0.0"/><detAdicional nombre="Detalle" valor="JULIO - TENECELA MEDINA CARLOS ANDRES"/></detallesAdicionales><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>0</codigoPorcentaje><tarifa>0.00</tarifa><baseImponible>103.19</baseImponible><valor>0.0</valor></impuesto></impuestos></detalle><detalle><codigoPrincipal>506</codigoPrincipal><descripcion>PENSION</descripcion><cantidad>1.0</cantidad><precioUnitario>103.19</precioUnitario><descuento>0.0</descuento><precioTotalSinImpuesto>103.19</precioTotalSinImpuesto><detallesAdicionales><detAdicional nombre="DescuentoPorcentaje" valor="0.0"/><detAdicional nombre="Detalle" valor="AGOSTO - TENECELA MEDINA CARLOS ANDRES"/></detallesAdicionales><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>0</codigoPorcentaje><tarifa>0.00</tarifa><baseImponible>103.19</baseImponible><valor>0.0</valor></impuesto></impuestos></detalle><detalle><codigoPrincipal>507</codigoPrincipal><descripcion>PENSION</descripcion><cantidad>1.0</cantidad><precioUnitario>103.19</precioUnitario><descuento>0.0</descuento><precioTotalSinImpuesto>103.19</precioTotalSinImpuesto><detallesAdicionales><detAdicional nombre="DescuentoPorcentaje" valor="0.0"/><detAdicional nombre="Detalle" valor="SEPTIEMBRE - TENECELA MEDINA CARLOS ANDR"/></detallesAdicionales><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>0</codigoPorcentaje><tarifa>0.00</tarifa><baseImponible>103.19</baseImponible><valor>0.0</valor></impuesto></impuestos></detalle><detalle><codigoPrincipal>508</codigoPrincipal><descripcion>PENSION</descripcion><cantidad>1.0</cantidad><precioUnitario>103.19</precioUnitario><descuento>0.0</descuento><precioTotalSinImpuesto>103.19</precioTotalSinImpuesto><detallesAdicionales><detAdicional nombre="DescuentoPorcentaje" valor="0.0"/><detAdicional nombre="Detalle" valor="OCTUBRE - TENECELA MEDINA CARLOS ANDRES"/></detallesAdicionales><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>0</codigoPorcentaje><tarifa>0.00</tarifa><baseImponible>103.19</baseImponible><valor>0.0</valor></impuesto></impuestos></detalle></detalles><infoAdicional><campoAdicional nombre="Direccion">SANTA MONICA MZ 37 VILLA 11 -</campoAdicional><campoAdicional nombre="Email">rossanamedina73@hotmail.com</campoAdicional></infoAdicional><ds:Signature Id="Signature846838" xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#">
+<ds:SignedInfo Id="Signature-SignedInfo7549">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+<ds:Reference Id="SignedPropertiesID952489" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature846838-SignedProperties135151">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>ditmjGynZbf5+sIMB8C7NfSt0bA=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate1323066">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>S6fXlStANuu993NqtTH1XLPX/Ck=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-182379" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>L5k5nElFmiWWN6VjERAeyBul5sc=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue915986">
+af45F0Tgph5UPENnVQ1qyiBBGcHG4RxDIIgiC+voEsJVKHTi9Cfx+g5IiSy3NCsi2brtoksQqwcD
+GxjGV0suzACnTd3UE90UjC8rrWlzezKkaG4J+x3PIBYEHnGKnqKR2Y8seVZkcVN7aS8AjMW1/IEd
+d+aLip4twlsDrfCrzuPRfYYvgINIeBaUs98FKbOI3rQvjdLZYM6Dv5ld13zBNi9KELqXX8AT58V6
+R27a6GPXXRzj5TWuUUI+N/6vQ/vwD1N5Pjvhg03I3yVtmAdLCG4Uob1zd9X9pVElgUsKLHZSOlBD
+SvJYCr8TYLcmkzn/7WzvO7abfMdNXFug6ai/xQ==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate1323066">
+<ds:X509Data>
+<ds:X509Certificate>
+MIILlTCCCX2gAwIBAgIEEmq7eTANBgkqhkiG9w0BAQsFADCBmTELMAkGA1UEBhMCRUMxHTAbBgNV
+BAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAxMTAwLgYDVQQLDCdFTlRJREFEIERFIENFUlRJRklDQUNJ
+T04gREUgSU5GT1JNQUNJT04xOTA3BgNVBAMMMEFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNV
+QkNBLTEgU0VDVVJJVFkgREFUQTAeFw0yMDEwMDIxMzMyMTZaFw0yMjEwMDIxMzMyMTZaMIGhMQsw
+CQYDVQQGEwJFQzEdMBsGA1UECgwUU0VDVVJJVFkgREFUQSBTLkEuIDExMDAuBgNVBAsMJ0VOVElE
+QUQgREUgQ0VSVElGSUNBQ0lPTiBERSBJTkZPUk1BQ0lPTjEVMBMGA1UEBRMMMDIxMDIwMDg0MjE1
+MSowKAYDVQQDDCFHVUlMTEVSTU8gSEVSSUJFUlRPIFZBU1FVRVogTE9QRVowggEiMA0GCSqGSIb3
+DQEBAQUAA4IBDwAwggEKAoIBAQCY0gM9/wxgTiIwr+Do7SMDC5mo+gF9paA6RkUzx6rg25VwMhc+
+/4ZHMoGtimXdXqlkkEGxLBw8U/QcWq7YQ/BY4ex4rgjS5lsHQoTPTx7tARW/n2l7mGN8J6WSHsZD
+e+UpbEfLg9nZbQyuPOP45LGgmv7W1JTH7D9wJVQLS8zYhQlCp66iLXLSzSjfDa6djhZ0LbdWOVqv
+WrAcnfklXybbIYo+W2PAkCX7mJQ1hvJfdZryfvqcZP3K/8McftvBLU5bI+tKXvI1WxHhrxVGm8GH
+MQRJCiSK/kTEbDN2VoMw5LhKHYWAYQvwtuRjDlPHw0a3DsD4bpzYX4psjTTVxnEvAgMBAAGjggbZ
+MIIG1TBZBggrBgEFBQcBAQRNMEswSQYIKwYBBQUHMAGGPWh0dHA6Ly9vY3NwZ3cuc2VjdXJpdHlk
+YXRhLm5ldC5lYy9lamJjYS9wdWJsaWN3ZWIvc3RhdHVzL29jc3AwHQYDVR0OBBYEFIc3VnH79GO8
+dV6c8Zlnr3bXWG/7MAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUXA+FpHQQ/K0BLBoAPZMXCfo5
+AdYwKwYDVR0QBCQwIoAPMjAyMDEwMDIxMzMyMTZagQ8yMDIyMTAwMjEzMzIxNlowgcwGA1UdLgSB
+xDCBwTCBvqCBu6CBuIaBtWxkYXA6Ly9sZGFwc2Quc2VjdXJpdHlkYXRhLm5ldC5lYy9DTj1BVVRP
+UklEQUQgREUgQ0VSVElGSUNBQ0lPTiBTVUJDQS0xIFNFQ1VSSVRZIERBVEEsT1U9RU5USURBRCBE
+RSBDRVJUSUZJQ0FDSU9OIERFIElORk9STUFDSU9OLE89U0VDVVJJVFkgREFUQSBTLkEuIDEsQz1F
+Qz9kZWx0YVJldm9jYXRpb25MaXN0P2Jhc2UwbQYDVR0gBGYwZDBiBgorBgEEAYKmcgIJMFQwUgYI
+KwYBBQUHAgIwRh5EAEMAZQByAHQAaQBmAGkAYwBhAGQAbwAgAGQAZQAgAFIAZQBwAHIAZQBzAGUA
+bgB0AGEAbgB0AGUAIABMAGUAZwBhAGwwggKeBgNVHR8EggKVMIICkTCB5aBBoD+GPWh0dHA6Ly9v
+Y3NwZ3cuc2VjdXJpdHlkYXRhLm5ldC5lYy9lamJjYS9wdWJsaWN3ZWIvc3RhdHVzL29jc3CigZ+k
+gZwwgZkxOTA3BgNVBAMMMEFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNVQkNBLTEgU0VDVVJJ
+VFkgREFUQTEwMC4GA1UECwwnRU5USURBRCBERSBDRVJUSUZJQ0FDSU9OIERFIElORk9STUFDSU9O
+MR0wGwYDVQQKDBRTRUNVUklUWSBEQVRBIFMuQS4gMTELMAkGA1UEBhMCRUMwgcSggcGggb6Ggbts
+ZGFwOi8vbGRhcHNkLnNlY3VyaXR5ZGF0YS5uZXQuZWMvQ049QVVUT1JJREFEIERFIENFUlRJRklD
+QUNJT04gU1VCQ0EtMSBTRUNVUklUWSBEQVRBLE9VPUVOVElEQUQgREUgQ0VSVElGSUNBQ0lPTiBE
+RSBJTkZPUk1BQ0lPTixPPVNFQ1VSSVRZIERBVEEgUy5BLiAxLEM9RUM/Y2VydGlmaWNhdGVSZXZv
+Y2F0aW9uTGlzdD9iYXNlMIHfoIHcoIHZhoHWaHR0cHM6Ly9wb3J0YWwtb3BlcmFkb3Iuc2VjdXJp
+dHlkYXRhLm5ldC5lYy9lamJjYS9wdWJsaWN3ZWIvd2ViZGlzdC9jZXJ0ZGlzdD9jbWQ9Y3JsJmlz
+c3Vlcj1DTj1BVVRPUklEQUQgREUgQ0VSVElGSUNBQ0lPTiBTVUJDQS0xIFNFQ1VSSVRZIERBVEEs
+T1U9RU5USURBRCBERSBDRVJUSUZJQ0FDSU9OIERFIElORk9STUFDSU9OLE89U0VDVVJJVFkgREFU
+QSBTLkEuIDEsQz1FQzALBgNVHQ8EBAMCBeAwKgYDVR0RBCMwIYEfcmVjdG9yYWRvX2FsdGFtYXJz
+YUBob3RtYWlsLmNvbTAaBgorBgEEAYKmcgMBBAwMCjAxMDAxOTk2NjAwIwYKKwYBBAGCpnIDAgQV
+DBNHVUlMTEVSTU8gSEVSSUJFUlRPMBcGCisGAQQBgqZyAwMECQwHVkFTUVVFWjAVBgorBgEEAYKm
+cgMEBAcMBUxPUEVaMB8GCisGAQQBgqZyAwUEEQwPR0VSRU5URSBHRU5FUkFMMCwGCisGAQQBgqZy
+AwcEHgwcVkVMRVogMTkwNCBZIENBUkNISSBZIFRVTENBTjAbBgorBgEEAYKmcgMIBA0MCzU5Mzk0
+MTM3NTM1MBkGCisGAQQBgqZyAwkECwwJR1VBWUFRVUlMMFcGCisGAQQBgqZyAwoESQxHVU5JREFE
+IEVEVUNBVElWQSBQQVJUSUNVTEFSIE1JWFRBIEFDQURFTUlBIE5BVkFMIEFMVEFNQVIgUy5BLiBB
+TFRBTUFSU0EwHQYKKwYBBAGCpnIDCwQPDA0wOTkyNDEzNDMzMDAxMBcGCisGAQQBgqZyAwwECQwH
+RUNVQURPUjASBgorBgEEAYKmcgMdBAQMAk5vMB8GCisGAQQBgqZyAyAEEQwPMDAxMDAyMDAwMDYy
+MDIwMBMGCisGAQQBgqZyAyEEBQwDUEZYMBEGCisGAQQBgqZyAyIEAwwBLjANBgkqhkiG9w0BAQsF
+AAOCAgEALzY5CxRKnvaNmnhNMa9NPuYZcMegkBSucSiOv8OjbPUa8HBS4tRf01rrVZFWJ/Ifl5Ae
+BWcsfyEg+jSnOnwULnsiGMNi74X00Rs6OGY+rG04UbynnPne0LS/ILfY5SkBZk9WTRlhBK+ezM+i
+QrJpLt1zdiY91JA1J/ynvIujbZ0f5iwT/Ilc7UcoOuhvRXTLIGNADqMK7G3pW41R2XbKSwVcWMCk
+y8azkuXi6ruUokJ7PEElJdw6p5N5gn443AxqMj5/BG5Q/dcx8lxLBwkVZsONdmYKfDXOjApZ5UbI
+91TgkpEkWT9uvxFhvzNnizIuFFTgqxUWKu9vxJgYfVPpkdi3WmGzIN6lHMoCwU8xTvHq/qAUei/e
+mTXwWXW8PhFi3oPHRdHHQJx8H2KWuADIX6FaFw9PcXUtmgqR+/XZvHwf7mqu3nkO9OLvwDTMb7J1
+ZCesnKEZqfHIJR/VSHy4EB84s5roN7Si0gSTkMbHqscky8byZqPg1/Qq2wJx8T2ir6jwTL5wxtrk
+T98XhKAUpGHQQv2HBfA+cJg+YF563HmlT1JV3I3TQarm/zLrGFSYOX7xTSzzyJSwCfFvnLEpchXE
+yAaslwa2W4RG29oj7hf8pOROsORva8xxDFjkaYqS1q9vGTYMfI0oZjWk7BU5QiCJnE6PTODtDQzH
+PyaUF+Y=
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+mNIDPf8MYE4iMK/g6O0jAwuZqPoBfaWgOkZFM8eq4NuVcDIXPv+GRzKBrYpl3V6pZJBBsSwcPFP0
+HFqu2EPwWOHseK4I0uZbB0KEz08e7QEVv59pe5hjfCelkh7GQ3vlKWxHy4PZ2W0Mrjzj+OSxoJr+
+1tSUx+w/cCVUC0vM2IUJQqeuoi1y0s0o3w2unY4WdC23Vjlar1qwHJ35JV8m2yGKPltjwJAl+5iU
+NYbyX3Wa8n76nGT9yv/DHH7bwS1OWyPrSl7yNVsR4a8VRpvBhzEESQokiv5ExGwzdlaDMOS4Sh2F
+gGEL8LbkYw5Tx8NGtw7A+G6c2F+KbI001cZxLw==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature846838-Object1013633"><etsi:QualifyingProperties Target="#Signature846838"><etsi:SignedProperties Id="Signature846838-SignedProperties135151"><etsi:SignedSignatureProperties><etsi:SigningTime>2021-10-23T10:06:52-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>YVSzwLl1y28hXrVO4CGTXS5mRks=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=AUTORIDAD DE CERTIFICACION SUBCA-1 SECURITY DATA,OU=ENTIDAD DE CERTIFICACION DE INFORMACION,O=SECURITY DATA S.A. 1,C=EC</ds:X509IssuerName><ds:X509SerialNumber>308984697</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-182379"><etsi:Description>contenido comprobante</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+  <mensajes/>
+</autorizacion>

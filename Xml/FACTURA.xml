@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<factura>
+  <infoTributaria>
+    <ambiente>1</ambiente>
+    <tipoEmision>1</tipoEmision>
+    <razonSocial>UNIDAD EDUCATIVA SANTO GRIAL</razonSocial>
+    <nombreComercial>UNIDAD EDUCATIVA SANTO GRIAL</nombreComercial>
+    <ruc>1791787641001</ruc>
+    <claveAcceso>080120220117917876410012001001141234567810</claveAcceso>
+    <codDoc>01</codDoc>
+    <estab>001</estab>
+    <ptoEmi>001</ptoEmi>
+    <secuencial>000000014</secuencial>
+    <dirMatriz>Duran</dirMatriz>
+  </infoTributaria>
+  <infoFactura>
+    <fechaEmision>2022-01-08</fechaEmision>
+    <dirEstablecimiento>Duran</dirEstablecimiento>
+    <obligadoContabilidad>SI</obligadoContabilidad>
+    <tipoIdentificacionComprador>05</tipoIdentificacionComprador>
+    <razonSocialComprador>MONCAYO PATRICIO</razonSocialComprador>
+    <identificacionComprador>0909319907</identificacionComprador>
+    <totalSinImpuestos>80.00</totalSinImpuestos>
+    <totalDescuento>80.00</totalDescuento>
+    <totalConImpuestos>
+      <totalImpuesto>
+        <codigo>2</codigo>
+        <codigoPorcentaje>2</codigoPorcentaje>
+        <baseImponible>80.00</baseImponible>
+        <valor>0</valor>
+      </totalImpuesto>
+      <propina>0</propina>
+      <importeTotal>80.00</importeTotal>
+      <moneda>DOLAR</moneda>
+    </totalConImpuestos>
+  </infoFactura>
+  <detalles>
+    <detalle>
+      <codigoPrincipal>002</codigoPrincipal>
+      <codigoAuxiliar>002</codigoAuxiliar>
+      <descripcion>PENSION</descripcion>
+      <cantidad>1</cantidad>
+      <precioUnitario>80.00</precioUnitario>
+      <descuento>0</descuento>
+      <precioTotalSinImpuesto>80.00</precioTotalSinImpuesto>
+      <detallesAdicionales/>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>2</codigoPorcentaje>
+          <tarifa>12</tarifa>
+          <baseImponible>80.00</baseImponible>
+          <valor>0</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+  </detalles>
+</factura>
